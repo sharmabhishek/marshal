@@ -1,14 +1,14 @@
-[ 
-  {
-    name: 'Pen',
-    price: '2',
-    category: 'Stationary',
-    attributes: 'Red'
-  },
-  {
-    name: 'Pencil',
-    price: '1',
-    category: 'Stationary',
-    attributes: 'Brown'
-  }
+[
+   {
+      "name":"Pen",
+      "price":"2",
+      "category":"Stationary",
+      "attributes":"Red"
+   },
+   {
+      "name":"Pencil",
+      "price":"1",
+      "category":"Stationary",
+      "attributes":"Brown"
+   }
 ]
